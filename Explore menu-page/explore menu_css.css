@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: "roboto";
+}
+.explor-menu-section{
+    background-color: white;
+}
+.menu-section-headding{
+    color: #183b56;
+    font-size: 28px;
+    font-family: "roboto";
+    font-weight: 700;
+}
+.menu-item-image{
+    border-radius: 16px;
+   
+}
+.menu-card-title{
+    color: #323f4b;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+.menu-item-link{
+    color: rgb(238, 241, 8);
+    font-weight: 900;
+    font-size: 16px;
+   text-decoration: none;
+}
+.menu-card-item{
+    border-radius: 16px;
+    
+}
+.on-hover-link:hover{
+    text-decoration: none;
+    color: rgb(8, 241, 86);
+}
